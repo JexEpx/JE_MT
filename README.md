@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch incremental open-set memory pipeline used for the thesis experiments.
 
-# Dataset and checkpoint preparation
+## Dataset and checkpoint preparation
 
 Adopted from [OW-DETR](https://github.com/akshitac8/OW-DETR).
 
