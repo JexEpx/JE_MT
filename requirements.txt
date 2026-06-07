@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# Core
+numpy==1.26.4
+pillow==10.4.0
+matplotlib==3.8.4
+pandas==2.2.2
+
+# PyTorch
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+
+# ML / viz
+scipy==1.11.4
+scikit-learn==1.4.2
+umap-learn==0.5.7
+
+# Dev
+pytest>=8.0
+nbstripout>=0.7.0
